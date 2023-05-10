@@ -1,0 +1,1 @@
+This code calculates the musical interval from the note C using numerical input in semitones.

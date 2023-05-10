@@ -1,0 +1,1 @@
+This program calculates the interval from the note. Commented out is a more complex version where user can input an acutal note name.
