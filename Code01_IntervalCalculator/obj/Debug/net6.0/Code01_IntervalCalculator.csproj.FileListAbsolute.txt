@@ -1,0 +1,15 @@
+C:\Code\My_Csharp\Code01_IntervalCalculator\bin\Debug\net6.0\Code01_IntervalCalculator.exe
+C:\Code\My_Csharp\Code01_IntervalCalculator\bin\Debug\net6.0\Code01_IntervalCalculator.deps.json
+C:\Code\My_Csharp\Code01_IntervalCalculator\bin\Debug\net6.0\Code01_IntervalCalculator.runtimeconfig.json
+C:\Code\My_Csharp\Code01_IntervalCalculator\bin\Debug\net6.0\Code01_IntervalCalculator.dll
+C:\Code\My_Csharp\Code01_IntervalCalculator\bin\Debug\net6.0\Code01_IntervalCalculator.pdb
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.csproj.AssemblyReference.cache
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.AssemblyInfoInputs.cache
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.AssemblyInfo.cs
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.csproj.CoreCompileInputs.cache
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.dll
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\refint\Code01_IntervalCalculator.dll
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.pdb
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\Code01_IntervalCalculator.genruntimeconfig.cache
+C:\Code\My_Csharp\Code01_IntervalCalculator\obj\Debug\net6.0\ref\Code01_IntervalCalculator.dll

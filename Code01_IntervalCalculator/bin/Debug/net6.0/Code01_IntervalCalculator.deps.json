@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Code01_ScalesCalculator/1.0.0": {
+      "Code01_IntervalCalculator/1.0.0": {
         "runtime": {
-          "Code01_ScalesCalculator.dll": {}
+          "Code01_IntervalCalculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Code01_ScalesCalculator/1.0.0": {
+    "Code01_IntervalCalculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

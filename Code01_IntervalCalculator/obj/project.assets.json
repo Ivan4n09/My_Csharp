@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\My_Csharp\\Code01_ScalesCalculator\\Code01_ScalesCalculator.csproj",
-      "projectName": "Code01_ScalesCalculator",
-      "projectPath": "C:\\Code\\My_Csharp\\Code01_ScalesCalculator\\Code01_ScalesCalculator.csproj",
+      "projectUniqueName": "C:\\Code\\My_Csharp\\Code01_IntervalCalculator\\Code01_IntervalCalculator.csproj",
+      "projectName": "Code01_IntervalCalculator",
+      "projectPath": "C:\\Code\\My_Csharp\\Code01_IntervalCalculator\\Code01_IntervalCalculator.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\My_Csharp\\Code01_ScalesCalculator\\obj\\",
+      "outputPath": "C:\\Code\\My_Csharp\\Code01_IntervalCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
