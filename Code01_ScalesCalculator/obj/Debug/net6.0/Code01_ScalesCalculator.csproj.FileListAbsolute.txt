@@ -1,0 +1,15 @@
+C:\Code\My_Csharp\Code01_ScalesCalculator\bin\Debug\net6.0\Code01_ScalesCalculator.exe
+C:\Code\My_Csharp\Code01_ScalesCalculator\bin\Debug\net6.0\Code01_ScalesCalculator.deps.json
+C:\Code\My_Csharp\Code01_ScalesCalculator\bin\Debug\net6.0\Code01_ScalesCalculator.runtimeconfig.json
+C:\Code\My_Csharp\Code01_ScalesCalculator\bin\Debug\net6.0\Code01_ScalesCalculator.dll
+C:\Code\My_Csharp\Code01_ScalesCalculator\bin\Debug\net6.0\Code01_ScalesCalculator.pdb
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.csproj.AssemblyReference.cache
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.AssemblyInfoInputs.cache
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.AssemblyInfo.cs
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.csproj.CoreCompileInputs.cache
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.dll
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\refint\Code01_ScalesCalculator.dll
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.pdb
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\Code01_ScalesCalculator.genruntimeconfig.cache
+C:\Code\My_Csharp\Code01_ScalesCalculator\obj\Debug\net6.0\ref\Code01_ScalesCalculator.dll
