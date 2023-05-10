@@ -1,0 +1,15 @@
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.csproj.AssemblyReference.cache
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.AssemblyInfoInputs.cache
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.AssemblyInfo.cs
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.csproj.CoreCompileInputs.cache
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\bin\Debug\net6.0\Code02_IntervalCalculatorFromNote.exe
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\bin\Debug\net6.0\Code02_IntervalCalculatorFromNote.deps.json
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\bin\Debug\net6.0\Code02_IntervalCalculatorFromNote.runtimeconfig.json
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\bin\Debug\net6.0\Code02_IntervalCalculatorFromNote.dll
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\bin\Debug\net6.0\Code02_IntervalCalculatorFromNote.pdb
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.dll
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\refint\Code02_IntervalCalculatorFromNote.dll
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.pdb
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\Code02_IntervalCalculatorFromNote.genruntimeconfig.cache
+C:\Code\My_Csharp\Code02_IntervalCalculatorFromNote\obj\Debug\net6.0\ref\Code02_IntervalCalculatorFromNote.dll
